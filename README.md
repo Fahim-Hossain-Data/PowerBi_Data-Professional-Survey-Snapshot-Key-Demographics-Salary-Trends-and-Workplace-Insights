@@ -1,7 +1,6 @@
  # Data Professional Survey Snapshot: Key Demographics, Salary Trends, and Workplace Insights
 
-##### This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work 
-satisfaction to reveal key trends and insights within the industry
+##### This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work satisfaction to reveal key trends and insights within the industry.
 
 
 ![Data_Modeling](https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png)
