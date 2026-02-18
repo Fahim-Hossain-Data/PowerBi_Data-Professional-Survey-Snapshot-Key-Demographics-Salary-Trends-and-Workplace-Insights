@@ -2,10 +2,11 @@
 
 ##### This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work satisfaction to reveal key trends and insights within the industry.
 
+Initially, three datasets—Demography, Career & Compensation, and Job Satisfaction & Survey—were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
 
 ![Data_Modeling](https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png)
 
-
+The Power BI dashboard, shown below, includes the following visualizations: Card, Area Chart, Line Chart, Stacked Column Chart, Pie Chart, Gauge, and Treemap.
 
 ![Dashboard](https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/DashBoard.png)
 
@@ -74,17 +75,9 @@ Several categorical columns, such as "Favorite Programming Language" or "Industr
 - **Cleanup:** The temporary column containing the specific details was reviewed and then deleted, as it was not needed for high-level categorical aggregation.
 - **Standardization:** The original target column was retained with all values standardized to the main category (e.g., all entries became simply "Other" instead of "Other (specific reason)").
 
-**Benefit:** This process improved data cleanliness and ensured accuracy in aggregations and visual analysis by preventing each unique write-in response from being treated as its own separate category.
 
----
+<div align="center">
+  
+**[⬆ Back to Top](#top)**
 
-## 📂 Files in this Repository
-
-- `data/` - Contains the raw and processed survey data.
-- `notebooks/` - Jupyter notebooks or Power BI files used for analysis.
-- `README.md` - This file, containing the project summary and documentation.
-
-## 🛠️ Tools Used
-
-- **Data Processing:** Power Query (Excel / Power BI)
-- **Analysis & Visualization:** [e.g., Power BI Desktop, Python, etc.]
+</div>
