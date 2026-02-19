@@ -17,7 +17,7 @@
   <br>
   <em>Figure: Power BI Dashboard for Data Visualization </em>
 </p>
-
+---
 
 ## 📝 Key Findings: Q&A Summary
 
@@ -27,9 +27,13 @@ Here are the main insights derived from the 630 survey respondents.
 
 🟩 A total of **630** data professionals from around the globe took part in this survey.
 
+---
+
 **📅 2. What is the average age of the survey respondents?**
 
 🟩 The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
+
+---
 
 **💰 3. Which occupation commands the highest salary, and what are the top earners?**
 
@@ -37,22 +41,32 @@ Here are the main insights derived from the 630 survey respondents.
 - **Data Engineers:** $65.29k
 - **Data Architects:** $64.00k
 
+---
+
 **🌍 4. Which countries had the highest and lowest representation in the survey?**
 
 🟩 The **United States** was the most responsive country, contributing **261** responses. **Canada** had the fewest respondents.
 
+---
+
 **⚥ 5. Is there a gender pay gap among respondents?**
 
 🟩 While the gender split is nearly even (Male: 50.81%, Female: 49.19%), males earn a slightly higher average salary, pointing to a small but present gender pay gap within this survey group.
+
+---
 
 **📈 6. How does satisfaction with salary change as professionals age?**
 
 🟩 - **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
 - **Older respondents (aged 66 and above)** report a much more stable outlook, with happiness consistently rating around a **5 out of 10**.
 
+---
+
 **💻 7. Which programming languages are the most and least popular?**
 
 🟩 **Python** is the overwhelming favorite. On the other end of the spectrum, **Java** was identified as the least popular language in this survey.
+
+---
 
 **⚖️ 8. How do professionals rate their workplace satisfaction?**
 
@@ -80,6 +94,8 @@ The raw data contained salary information as text ranges (e.g., "50k-65k"). To p
     (Minimum Salary + Maximum Salary) / 2
     ```
 - **📈 Result:** This new `Average Salary` column was used for all salary-related analysis in the report.
+
+---
 
 ### 2. Handling "Other" Categories with Subsections
 
