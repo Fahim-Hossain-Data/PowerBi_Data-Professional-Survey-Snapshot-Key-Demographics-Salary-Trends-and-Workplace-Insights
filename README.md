@@ -78,7 +78,7 @@ This section outlines the data cleaning and transformation steps applied to prep
 
 - Handled “150k+” as 225k
 
-- Calculated Average Salary
+- Calculated Average Salary:
     ```
     (Minimum Salary + Maximum Salary) / 2
     ```
@@ -86,9 +86,9 @@ This section outlines the data cleaning and transformation steps applied to prep
 
 **Standardizing “Other” Categories**
 
-- Split write-ins in columns like “Favorite Programming Language” or “Industry” using ( or : as delimiters
+- Split write-ins in columns like Favorite Programming Language or Industry using "(" or ":" as delimiters
 
-- Kept only the main category “Other”, removing any attached text or descriptions in parentheses or after a colon
+- Kept only the main category **Other**, removing any attached text or descriptions in parentheses or after a colon
 
 ---
 
