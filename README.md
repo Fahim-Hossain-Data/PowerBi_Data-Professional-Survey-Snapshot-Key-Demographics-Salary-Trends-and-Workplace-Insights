@@ -20,11 +20,15 @@
 
 📊 **Data Overview**
 
-- **Survey Size:** 630 data professionals across multiple countries
+<div align="center">
 
-- **Average Age:** 29.87 years, indicating a relatively young workforce
+| Attribute       | Value                                                                                                                                                         |
+|:---------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Survey Size     | 630                                                                                                                                                           |
+| Missing Values  | None                                                                                                                                                          |
+| Data Sources    | [Demographics](Demographics.xlsx), [Career & Compensation](https://github.com/Fahim-Hossain-Data/PowerBi_Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/f5c5e75b524661b01b47b8d0badcb696b88d873d/Career%20%26%20Compensation.xlsx), [Job Satisfaction & Survey](https://github.com/Fahim-Hossain-Data/PowerBi_Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/f5c5e75b524661b01b47b8d0badcb696b88d873d/Job%20Satisfaction%20%26%20Survey.xlsx) |
 
-- **Data Sources:** [Demography](Demographics.xlsx), [Career & Compensation](https://github.com/Fahim-Hossain-Data/PowerBi_Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/f5c5e75b524661b01b47b8d0badcb696b88d873d/Career%20%26%20Compensation.xlsx), [Job Satisfaction & Survey](https://github.com/Fahim-Hossain-Data/PowerBi_Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/f5c5e75b524661b01b47b8d0badcb696b88d873d/Job%20Satisfaction%20%26%20Survey.xlsx)
+</div>
 
 ---
 
@@ -105,6 +109,13 @@ This section outlines the data cleaning and transformation steps applied to prep
 ## 📌 Conclusion
 
 This analysis provides key insights into data professionals’ demographics, salaries, programming preferences, and workplace satisfaction. The cleaned and standardized data ensures accurate results, offering a valuable reference for industry trends and decision-making.
+
+---
+
+## 📫 I’d Love to Connect!
+
+- **LinkedIn:** [Md Fahim Hossain](https://www.linkedin.com/in/yourprofile)  
+- **Email:** [fahimhossain0729@gmail.com](mailto:fahimhossain0729@gmail.com)
 
 
 <div align="center">
