@@ -1,6 +1,6 @@
 ## 📊 Data Professional Survey Analysis: Key Demographics, Salary Trends, and Workplace Insights
 
-##### 🟩 This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work satisfaction to reveal key trends and insights within the industry.
+##### 🟩 This survey offers a detailed view of data professionals, demographics, salary trends, programming interests, and general job satisfaction in their work to show the major trends and information in the field.
 
 ---
 
@@ -42,7 +42,7 @@ Initially, three dataset were loaded into Power BI. These datasets are connected
 </p>
 
 
-📊 The dashboard includes interactive visualizations such as Card, Area Chart, Line Chart, Stacked Column Chart, Pie Chart, Gauge, and Treemap to explore demographics, salaries, programming preferences, and workplace satisfaction is shown below:
+📊 The dashboard has interactive visualization, including Card, Area Chart, Line Chart, Stack Column Chart, Pie Chart, Gauge, and Treemap, to study the demographics, salaries, preference in programming, and job satisfaction is as follows:
 
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/DashBoard.png" alt="Histogram" width="600"/>
@@ -54,24 +54,24 @@ Initially, three dataset were loaded into Power BI. These datasets are connected
 
 ## 📝 Key Findings
 
-Here are the main insights derived from the survey:
+Following are the key findings of the survey:
 
 🟩 Survey respondents:  A total of 630 data professionals from various countries participated in this survey.
 
 🟩 Average age of responds: The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
 
-🟩 Salary Insights:  Data Scientists earn the highest salaries among the surveyed roles. The top three roles are:
+🟩 Salary Insights:  Data Scientists are paid the most among the positions that were surveyed. The top three roles are:
 - **Data Scientists:** $94.04k
 - **Data Engineers:** $65.29k
 - **Data Architects:** $64.00k
 
-🟩 Country Participation: The **United States** was the most responsive country, contributing **261** responses. **Canada** had the fewest respondents.
+🟩 Country Participation: The **United States** was the most responsive nation with **261** responses. **Canada** had the fewest respondents.
 
-🟩 Gender pay gap: While the gender split is nearly even (Male: 50.81%, Female: 49.19%), males earn a slightly higher average salary, pointing to a small but present gender pay gap within this survey group.
+🟩 Gender pay gap: he gender distribution is almost balanced (Male: 50.81, Female: 49.19), but the average salary of males is slightly higher, indicating that there is a slight but existing gender pay gap in this survey group.
 
 🟩 Age vs Salary Satisfaction: 
-- **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
-- **Older respondents (aged 66 and above)** report a much more stable outlook, with happiness consistently rating around a **5 out of 10**.
+- The greatest changes in happiness are observed in **younger and mid-career professionals** who have ratings between **3 and 8** out of 10.
+- **Older respondents (aged 66 and above)** is much more stable, as the rating of happiness is around **5 out of 10**.
 
 🟩 Programming Language Preferences: **Python** is the overwhelming favorite. On the other end of the spectrum, **Java** was identified as the least popular language in this survey.
 
@@ -84,7 +84,7 @@ Here are the main insights derived from the survey:
 
 ## 🔧 Data Preprocessing
 
-This section outlines the data cleaning and transformation steps applied to prepare the raw survey data for analysis. 
+This section will describe the data cleaning and transformation procedures which will be used in preparing the raw survey data to be analyzed.
 
 📝 **Salary Range → Average Salary**
 
@@ -101,8 +101,7 @@ This section outlines the data cleaning and transformation steps applied to prep
 📝 **Standardizing “Other” Categories**
 
 - Split write-ins in columns like Favorite Programming Language or Industry using "(" or ":" as delimiters
-
-- Kept only the main category **Other**, removing any attached text or descriptions in parentheses or after a colon
+- Only retained the main category **Other**, and eliminated all additional text or descriptions in parentheses or following a colon.
 
 ---
 
