@@ -60,7 +60,7 @@ Here are the main insights derived from the survey:
 
 🟩 Average age of responds: The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
 
-🟩 Salary Insights: 
+🟩 Salary Insights:  Data Scientists earn the highest salaries among the surveyed roles. The top three roles are:
 - **Data Scientists:** $94.04k
 - **Data Engineers:** $65.29k
 - **Data Architects:** $64.00k
