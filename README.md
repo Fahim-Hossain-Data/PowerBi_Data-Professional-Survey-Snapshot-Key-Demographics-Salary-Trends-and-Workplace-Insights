@@ -107,7 +107,7 @@ This section will describe the data cleaning and transformation procedures which
 
 ## 📌 Conclusion
 
-This analysis provides key insights into data professionals’ demographics, salaries, programming preferences, and workplace satisfaction. The cleaned and standardized data ensures accurate results, offering a valuable reference for industry trends and decision-making.
+This study gives important information on the demographics of data professionals, salary rates, programming favourites, and job satisfaction. The standardized and cleaned data provide the correct results, which can be used as a good benchmark to the industry trend and decision-making.
 
 ---
 
