@@ -52,9 +52,9 @@ Initially, three dataset were loaded into Power BI. These datasets are connected
 
 ---
 
-## 📝 Key Findings: Q&A Summary
+## 📝 Key Findings
 
-Here are the main insights derived from the 630 survey respondents.
+Here are the main insights derived from the survey:
 
 🟩 Survey respondents:  A total of 630 data professionals from various countries participated in this survey.
 
@@ -86,7 +86,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 This section outlines the data cleaning and transformation steps applied to prepare the raw survey data for analysis. 
 
-**Salary Range → Average Salary**
+📝 **Salary Range → Average Salary**
 
 - Converted ranges (e.g., “50k-65k”) to numeric values
 
@@ -98,7 +98,7 @@ This section outlines the data cleaning and transformation steps applied to prep
     ```
 
 
-**Standardizing “Other” Categories**
+📝 **Standardizing “Other” Categories**
 
 - Split write-ins in columns like Favorite Programming Language or Industry using "(" or ":" as delimiters
 
