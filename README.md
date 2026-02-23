@@ -52,9 +52,9 @@ Initially, three dataset were loaded into Power BI. These datasets are connected
 
 Here are the main insights derived from the 630 survey respondents.
 
-🟩 survey respondents:  A total of 630 data professionals from various countries participated in this survey.
+🟩 Survey respondents:  A total of 630 data professionals from various countries participated in this survey.
 
-🟩 average age of responds: The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
+🟩 Average age of responds: The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
 
 🟩 Salary Insights: 
 - **Data Scientists:** $94.04k
@@ -63,7 +63,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 🟩 Country Participation: The **United States** was the most responsive country, contributing **261** responses. **Canada** had the fewest respondents.
 
-🟩 gender pay gap: While the gender split is nearly even (Male: 50.81%, Female: 49.19%), males earn a slightly higher average salary, pointing to a small but present gender pay gap within this survey group.
+🟩 Gender pay gap: While the gender split is nearly even (Male: 50.81%, Female: 49.19%), males earn a slightly higher average salary, pointing to a small but present gender pay gap within this survey group.
 
 🟩 Age vs Salary Satisfaction: 
 - **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
