@@ -24,7 +24,7 @@
 
 - **Average Age:** 29.87 years, indicating a relatively young workforce
 
-- **Data Sources:** [Demography](Demographics.xlsx), [Career & Compensation](Career & Compensation.xlsx], [Job Satisfaction & Survey](Job Satisfaction & Survey.xlsx)
+- **Data Sources:** [Demography](Demographics.xlsx), [Career & Compensation](https://github.com/Fahim-Hossain-Data/PowerBi_Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/f5c5e75b524661b01b47b8d0badcb696b88d873d/Career%20%26%20Compensation.xlsx), [Job Satisfaction & Survey](https://github.com/Fahim-Hossain-Data/PowerBi_Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/f5c5e75b524661b01b47b8d0badcb696b88d873d/Job%20Satisfaction%20%26%20Survey.xlsx)
 
 ---
 
